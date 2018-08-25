@@ -7,19 +7,24 @@ Basic Concept:
 
 Attack
 level 1 (all abilities on):
+	Standard shot. Constantly shooting when on, depletes energy with each shot.
 level 2 (one other ability off):
+	Shot upgraded to three bullets. One straight, two diagonal on each side.
 level 3 (both other abilities off):
-
+	Shot upgraded to piercing beam. High damage, high energy consumption.
+	
 Shield
 level 1 (all abilities on):
-Red and Green bullets deplete the Blue energy bar instead of the Red and Green energy bars. Blue bullets completely deplete the blue energy bar. Does not deplete over time.
+	Red and Green bullets deplete the Blue energy bar instead of the Red and Green energy bars. Blue bullets completely deplete the blue energy bar. Does not deplete over time.
 level 2 (one other ability off):
-All properties from level 1. Additionally, bullets will recharge the energy bar of the corresponding color if that ability is toggled off.
+	All properties from level 1. Additionally, bullets will recharge the energy bar of the corresponding color if that ability is toggled off.
 level 3 (both other abilities off:
-All properties from level 2. Additionally, enemies that come into contact with the player's shield are destroyed.
+	All properties from level 2. Additionally, enemies that come into contact with the player's shield are destroyed.
 
 Drive
 level 1 (all abilities on):
-	
+	Allows the player to move with the arrow keys. Moving depletes energy. (possibly only orthagonally)
 level 2 (one other ability off):
+	All properties from level 1. Speed increase. (possibly add diagonal)
 level 3 (both other abilities off:
+	All properties from level 2. Engine trail deals damage to enemies.
